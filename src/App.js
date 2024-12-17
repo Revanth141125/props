@@ -31,7 +31,7 @@ function App() {
        
       </center>
       </form>
-      
+      <h1>Thank You</h1>
     </div>
   );
 }
